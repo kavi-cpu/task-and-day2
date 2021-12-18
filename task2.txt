@@ -1,0 +1,38 @@
+1.List 5 difference between Browser JS(console) v Nodejs
+
+NODE JS:
+
+  1.NodeJS is a Javascript runtime environment.
+  2.We can run Javascript outside the browser with the help of NodeJS.
+  3.It is mostly used on the server-side.
+  4.Nodejs does not have capability to add HTML tags.
+  5.V8 is the Javascript engine inside of node.js that parses and runs Javascript. 
+  6.Some of the Nodejs modules are Lodash, express etc. These modules are to be imported from npm. 
+  7.Nodejs is used in server-side development.
+  8.Nodejs is written in C, C++ and Javascript.
+
+BROWSER JS:
+  1.Browser JS is also used to excute the java script.
+  2.It is inludes all html tags.
+  3.It runs in the browser console.
+  4.It also displays if any error in code.
+   
+
+2.Execute the below code and write your description in txt file
+
+  1.typeof(1)
+  2.typeof(1.1)
+  3.typeof('1.1')
+  4.typeof(true)
+  5.typeof(null)
+  6.typeof(undefined)
+  7.typeof([])
+  8.typeof({})
+  9.typeof(NaN)
+
+ 
+
+  
+  
+
+
