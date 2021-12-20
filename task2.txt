@@ -30,7 +30,15 @@ BROWSER JS:
   8.typeof({})
   9.typeof(NaN)
 
- 
+1.number
+2.number
+3.string
+4.boolean
+5.object
+6.undefined
+7.object
+8.object
+9.number
 
   
   
